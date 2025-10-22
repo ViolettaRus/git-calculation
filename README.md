@@ -1,67 +1,67 @@
-# Calculator Application
+# Приложение-калькулятор
 
-A modern React-based calculator application built with TypeScript, Vite, and Ant Design.
+Современное приложение-калькулятор на основе React, созданное с использованием TypeScript, Vite и Ant-дизайна.
 
-## Features
+## Особенности
 
-- 🧮 Basic arithmetic operations (+, -, *, /, %)
-- 🎨 Modern UI with Ant Design components
-- 📱 Responsive design
-- ⚡ Fast performance with Vite
-- 🔧 TypeScript for type safety
-- 📊 Real-time calculation display
+- Базовые арифметические операции (+, -, *, /, %)
+- Современный пользовательский интерфейс с компонентами Ant-дизайна
+- Адаптивный дизайн
+- Высокая производительность благодаря Vite
+- TypeScript для обеспечения безопасности типов
+- Отображение вычислений в реальном времени
 
-## Tech Stack
+## Технический стек
 
-- **React 18** - UI library
-- **TypeScript** - Type safety
-- **Vite** - Build tool and dev server
-- **Ant Design** - UI component library
-- **Lodash** - Utility functions
+- **React 18** - Библиотека пользовательского интерфейса
+- **TypeScript** - Безопасность типов
+- **Vite** - Инструмент для сборки и сервер разработки
+- **Ant Design** - Библиотека компонентов пользовательского интерфейса
+- **Lodash** - Служебные функции
 
-## Getting Started
+## Начало работы
 
-### Prerequisites
+### Предварительные требования
 
-- Node.js (version 16 or higher)
-- npm or yarn
+- Node.js (версия 16 или выше)
+- npm или yarn
 
-### Installation
+### Установка
 
-1. Clone the repository:
-```bash
+1. Клонируем репозиторий:
+```
 git clone https://github.com/ViolettaRus/git-calculation.git
 cd git-calculation
 ```
 
-2. Install dependencies:
-```bash
+2. Установите зависимости:
+```
 npm install
 ```
 
-3. Start the development server:
-```bash
+3. Запустите сервер разработки:
+```
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Откройте свой браузер и перейдите к "http://localhost:5173`
 
-### Building for Production
+### Сборка для производства
 
-```bash
+```
 npm run build
 ```
 
-The built files will be in the `dist` directory.
+Созданные файлы будут находиться в каталоге dist.
 
-## Available Scripts
+## Доступные скрипты
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
+- `npm run dev` - Запуск сервера разработки
+- `npm run build` - Сборка для производства
+- `npm run preview` - Предварительный просмотр рабочей сборки
+- `npm run lint` - Запуск ESLint
 
-## Project Structure
+## Структура проекта
 
 ```
 src/
@@ -79,23 +79,23 @@ src/
 └── index.css
 ```
 
-## Contributing
+## Внесение вклада
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Разветвляем репозиторий
+2. Создаем функциональную ветку (`git checkout -b feature/amazing-feature`)
+3. Зафиксируйте свои изменения (`git commit -m "Добавит какую-нибудь замечательную функцию`)
+4. Нажмите на ветку (`git push origin feature/amazing-feature`).
+5. Откройте запрос на обновление
 
-## License
+## Лицензия
 
-This project is licensed under the MIT License.
+Этот проект лицензирован по лицензии MIT.
 
-## Release Notes
+## Примечания к выпуску
 
-### v1.0.0
-- Initial release
-- Complete calculator functionality
-- Modern UI with Ant Design
-- TypeScript support
-- Responsive design
+### Версия 1.0.0
+- Начальный выпуск
+- Полная функциональность калькулятора
+- Современный пользовательский интерфейс с дизайном Ant
+- Поддержка TypeScript
+- Адаптивный дизайн
